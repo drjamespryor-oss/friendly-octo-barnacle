@@ -1,0 +1,5 @@
+If you are not in the middle of a focused task, you should do a code review shortly after it comes in.
+
+One business day is the maximum time it should take to respond to a code review request (i.e., first thing the next morning).
+
+Following these guidelines means that a typical CL should get multiple rounds of review (if needed) within a single day.
